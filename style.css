@@ -18,3 +18,13 @@ canvas {
 p {
     font-size: 20px;
 }
+
+table, td, tr {
+    border: 1px solid #fff;
+    text-align: center;
+    padding: 3px;
+}
+
+col {
+    background-color: #373737;
+}
